@@ -1,0 +1,16 @@
+{
+  "name": "svg-components-loader",
+  "version": "1.0.0",
+  "description": "svg components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "heek",
+  "license": "ISC",
+  "keywords": [
+    "svg",
+    "loader",
+    "webpack"
+  ]
+}
