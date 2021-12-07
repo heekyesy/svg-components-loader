@@ -1,7 +1,7 @@
 {
   "name": "svg-components-loader",
   "version": "1.0.0",
-  "description": "svg components",
+  "description": "svg图片作为组件使用",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,10 @@
   "license": "ISC",
   "keywords": [
     "svg",
-    "loader",
-    "webpack"
-  ]
+    "loader"
+  ],
+  "bugs": {
+    "url": "https://github.com/dolbyzerr/svg-loader/issues"
+  },
+  "homepage": "https://github.com/heekyesy/svg-components-loader"
 }
